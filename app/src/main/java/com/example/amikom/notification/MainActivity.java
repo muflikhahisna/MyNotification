@@ -10,8 +10,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final int NOTIF_ID = 1;
-
+    public static final int NOTIF_ID = 1;Button pencet;
+    //coba
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
